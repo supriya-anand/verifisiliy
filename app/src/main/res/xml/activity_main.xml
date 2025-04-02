@@ -1,0 +1,6 @@
+<com.wdf.metadata.BadgeView android:id="@+id/badgeView"
+    android:layout_width="50dp"
+    android:layout_height="50dp"
+    android:layout_gravity="center"
+    android:src="@drawable/verified2"
+    xmlns:android="http://schemas.android.com/apk/res/android" />
